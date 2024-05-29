@@ -16,7 +16,7 @@ Welcome to the Quiz Game project! This is a console-based quiz game designed to 
 
 **Getting Started**
 **Clone the repository:**
-git clone https://github.com/your-username/quiz-game.git
+git clone https://github.com/vidhidave29/Quiz-Game.git
 
 **Navigate to the project directory:**
 cd quiz-game
